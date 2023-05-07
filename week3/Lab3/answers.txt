@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: The time taken for nearly sorted data was much less than for reversed or shuffled inputs.
+
+sort2 uses: Merge Sort
+
+How do you know?: The time taken was consistently fast, showing good performance regardless of the input.
+
+sort3 uses: Selection Sort
+
+How do you know?: The time taken for all input types was roughly the same, with a slight difference between reversed and other inputs.
